@@ -6,3 +6,6 @@ now it's fifth line
 Git is free software distributed under the GPL
 ok, I know a little about git now
 now, let's start learning git!
+haha, it's my new branch!
+this is trunk!
+----------------------
